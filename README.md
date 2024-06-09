@@ -63,12 +63,39 @@ Activity 1.9: No of Paasengers - Nation Wise Analysis
 Story
 A data story is a way of presenting data and analysis in a narrative format, with the goal of making the information more engaging and easier to understand. A data story typically includes a clear introduction that sets the stage and explains the context for the data, a body that presents the data and analysis in a logical and systematic way, and a conclusion that summarizes the key findings and highlights their implications. Data stories can be told using a variety of mediums, such as reports, presentations, interactive visualizations, and videos.
 
-
-
 Amount Of Data Loaded
 "Amount of Data Loaded" refers to the quantity or volume of data that has been imported, retrieved, or loaded into a system, software application, database, or any other data storage or processing environment. It's a measure of how much data has been successfully processed and made available for analysis, manipulation, or use within the system.
 
 ## Document Link - https://drive.google.com/file/d/1IR9ezaQBH0FCyjudhhauyWnqsG5vK5rZ/view?usp=sharing
+## Video contenet:
+
+Welcome to our exploration of insights from synthetic airline data analysis with Qlik! In this video, we'll dive into how we used Qlik's powerful data visualization tools to uncover valuable insights and trends in the airline industry.
+Using synthetic data that simulates real-world airline operations, we analyzed flight schedules, passenger demographics, ticket sales, and performance metrics. Our goal was to leverage Qlik’s analytical capabilities to reveal patterns and trends, aiding decision-making processes for airlines, airports, and other stakeholders.
+
+we focused on enhancing operational efficiency for airport authorities. By analyzing flight schedules, passenger flows, and luggage handling processes, we pinpointed operational bottlenecks. Qlik’s predictive analytics enabled us to forecast peak traffic periods and optimize resource allocation, streamlining airport operations and boosting overall efficiency.
+
+we aimed to enhance the passenger experience. Sentiment analysis on customer feedback helped us understand preferences, satisfaction levels, and pain points. With these insights, airlines can personalize services and tailor marketing campaigns to better meet customer needs, fostering loyalty and satisfaction.
+
+Here are some key findings from our analysis:
+
+Total number of passengers: 157.7k
+Passengers affected by cancelled flights: 52.66k
+Passengers affected by flight delays: 52.53k
+Flights on time: 52.54k
+Top travel months: May, August, July, February, and September
+Leading nations by passenger numbers: China, Indonesia, Russia, Philippines, and Brazil
+
+Preparing the data was a crucial step. We ensured the data was clean, accurate, and ready for visualization. This allowed us to create intuitive graphical representations, making complex datasets more accessible and easier to interpret.
+
+In summary, our project showcased how Qlik can transform synthetic airline data into actionable insights. By optimizing revenue strategies, improving operational efficiencies, and enhancing customer experiences, we demonstrated the immense potential of data-driven decision-making in the airline industry.
+
+
+
+
+
+
+
+
 
 
 
