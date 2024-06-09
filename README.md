@@ -68,7 +68,7 @@ A data story is a way of presenting data and analysis in a narrative format, wit
 Amount Of Data Loaded
 "Amount of Data Loaded" refers to the quantity or volume of data that has been imported, retrieved, or loaded into a system, software application, database, or any other data storage or processing environment. It's a measure of how much data has been successfully processed and made available for analysis, manipulation, or use within the system.
 
-## Documwnt Link - https://drive.google.com/file/d/1IR9ezaQBH0FCyjudhhauyWnqsG5vK5rZ/view?usp=sharing
+## Document Link - https://drive.google.com/file/d/1IR9ezaQBH0FCyjudhhauyWnqsG5vK5rZ/view?usp=sharing
 
 
 
