@@ -67,6 +67,7 @@ Amount Of Data Loaded
 "Amount of Data Loaded" refers to the quantity or volume of data that has been imported, retrieved, or loaded into a system, software application, database, or any other data storage or processing environment. It's a measure of how much data has been successfully processed and made available for analysis, manipulation, or use within the system.
 
 ## Document Link - https://drive.google.com/file/d/1IR9ezaQBH0FCyjudhhauyWnqsG5vK5rZ/view?usp=sharing
+## Video Link - https://drive.google.com/file/d/1IR9ezaQBH0FCyjudhhauyWnqsG5vK5rZ/view?usp=sharing
 ## Video content:
 
 Welcome to our exploration of insights from synthetic airline data analysis with Qlik! In this video, we'll dive into how we used Qlik's powerful data visualization tools to uncover valuable insights and trends in the airline industry.
